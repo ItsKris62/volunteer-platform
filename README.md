@@ -54,5 +54,5 @@ A modern and scalable web application that connects volunteers with organization
 
 ### **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/volunteer-opportunity-platform.git
+git clone [https://github.com/your-username/volunteer-opportunity-platform.git](https://github.com/ItsKris62/volunteer-platform.git)
 cd volunteer-opportunity-platform
